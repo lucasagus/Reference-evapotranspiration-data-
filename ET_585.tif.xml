@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pt"><Esri><CreaDate>20220719</CreaDate><CreaTime>21552000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20220719" Time="215520">RasterCalculator Con("ET.tif" == 1,"ET_585.tif") C:\LUCAS_DADOS\Métricas\ET_585.tif</Process></lineage></DataProperties></Esri></metadata>
